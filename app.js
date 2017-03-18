@@ -11,7 +11,7 @@ app.use(showError)
 function showIndex(req,res) {
     res.render('index.html')
 } 
-
+s
 function showAbout(req,res) {
     res.render('about.html')
 }
